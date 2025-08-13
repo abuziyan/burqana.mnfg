@@ -1,0 +1,5 @@
+ID,Name,Role,Email,Password,HourlyRate
+U-1001,Admin One,Admin,admin@corp.test,admin123,
+U-1002,HR One,HR Manager,hr@corp.test,hr123,
+U-2001,Reg Emp,Regular,regular@corp.test,regular123,120
+U-3001,Sewer A,Sewer,sewer@corp.test,sewer123,
